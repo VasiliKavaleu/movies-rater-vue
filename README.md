@@ -1,4 +1,4 @@
-# test-font-awesome
+# Movies rater
 
 ## Project setup
 ```
